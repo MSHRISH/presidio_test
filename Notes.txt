@@ -27,4 +27,8 @@ Conflict
 	Pull the changes from the Remote repo:
 	git pull origin master
 new change
-asdkjnasdln
+
+
+branching
+git branch <branch_name>
+git checkout <branch_name>

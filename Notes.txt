@@ -1,0 +1,15 @@
+Initialise a Repo: git init
+
+Connect to global github repo:
+git remote add origin <repo link>
+
+Show the remote repos connected
+git remote -v
+
+Itrate
+	Stage the files-marking the files that I need Git to monitor
+	command: git add <file_name>
+		 git add -A (for all files)
+	
+	Commit locally
+	Push to github

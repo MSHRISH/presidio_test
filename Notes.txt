@@ -21,3 +21,6 @@ Itrate
 	
 	Push to github
 
+
+git pull origin master
+asd

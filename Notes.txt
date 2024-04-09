@@ -11,6 +11,7 @@ Itrate
 	command: git add <file_name>
 		 git add -A (for all files) 
 		 git status (status of staged and unstaged files) 
+	Note that after changing the files you need to stage the file in order to reflect the changes.
 		
 	Commit locally-Compulsary commit message for each commit
 	During commit might need to connect the email address to the global Github. 
@@ -19,3 +20,4 @@ Itrate
 		git config --global user.name "Your Name"
 	
 	Push to github
+

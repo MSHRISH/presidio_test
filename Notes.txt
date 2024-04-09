@@ -20,7 +20,9 @@ Itrate
 		git config --global user.name "Your Name"
 	
 	Push to github
+		git push origin master --> master is the branch name can be anything default is basically master or main.
 
 
-git pull origin master
-asd
+Conflict
+	Pull the changes from the Remote repo:
+	git pull origin master

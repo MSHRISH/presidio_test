@@ -1,3 +1,1 @@
-hi
-from sh
-from master
+test
